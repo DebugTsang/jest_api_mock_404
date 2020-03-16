@@ -1,0 +1,26 @@
+{
+  "name": "interview_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiLoader.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-jest": "^25.1.0",
+    "babel-preset": "^1.1.4",
+    "bluebird": "^3.7.2",
+    "jest": "^25.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "fetch-mock-jest": "^1.2.4"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

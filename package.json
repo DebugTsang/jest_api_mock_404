@@ -4,7 +4,7 @@
   "description": "",
   "main": "apiLoader.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^25.1.0",
     "babel-preset": "^1.1.4",
     "bluebird": "^3.7.2",
